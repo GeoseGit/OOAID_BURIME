@@ -14,6 +14,7 @@ namespace ConsoleApp1
             Console.WriteLine("Введите первое слогаемое: ");
             a = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите второе слогаемое: ");
+            b = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Сумма: " + (a+b));
         }
     }
