@@ -11,6 +11,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             int a, b;
+            
+            Console.WriteLine("Сумма:" + (a+b));
         }
     }
 }
